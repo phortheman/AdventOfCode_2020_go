@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+
+# Advent of Cod Specific
+input/
